@@ -5,8 +5,8 @@
   "main": "index.mjs",
   "type": "module",
   "scripts": {
-    "dev": "nodemon server.mjs ",
-    "start": "node server.mjs"
+    "dev": "nodemon app.mjs ",
+    "start": "node app.mjs"
   },
   "author": "obz",
   "license": "ISC",
