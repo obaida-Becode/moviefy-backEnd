@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon app.mjs ",
-    "start": "node app.mjs"
+    "start": "node app.mjs",
+    "build": "npm run build"
   },
   "author": "obz",
   "license": "ISC",
