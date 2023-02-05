@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.mjs",
     "dev": "nodemon app.mjs ",
-    "build": "npm run build"
+    "build": "echo succesnpms"
   },
   "author": "obz",
   "license": "ISC",
